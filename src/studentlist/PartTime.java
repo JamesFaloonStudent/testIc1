@@ -9,5 +9,7 @@ package studentlist;
  * @author James
  */
 public class PartTime {
+
+    // added a comment
     
 }
